@@ -95,7 +95,7 @@ class ViewController: UIViewController {
 //            var textNum = String(calculationsLabel.text!)
 //            textNum = "-" + textNum
 //            calculationsLabel.text = textNum
-//    }
+     }
     
     @IBAction func procOp(_ sender: Any) {
 //        var num1 = Double(resultLabel.text!)
